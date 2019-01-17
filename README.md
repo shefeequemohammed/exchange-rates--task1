@@ -1,7 +1,4 @@
 # exchange-rate-calculator
-https://github.com/shefeequemohammed/exchange-rates-task1
-
-https://github.com/imamchishty/exchange-rates-challenge/
 
 ### How to run?
 java -jar exchange-rate-shefeeque-0.0.1.jar
