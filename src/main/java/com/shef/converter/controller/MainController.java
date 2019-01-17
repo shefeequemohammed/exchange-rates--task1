@@ -45,7 +45,7 @@ public class MainController {
             responseModel.setFromAmount(srcAmt);
             responseModel.setToAmount(srcAmt*cachedRate);
             responseModel.setExchangeRate(cachedRate);
-        }else {
+        }else { 
 
             String url = "https://free.currencyconverterapi.com/api/v6/convert?q=" + sourceCurrency + "_" + targetCurrency + "&compact=y";
             //store the JSON as string
