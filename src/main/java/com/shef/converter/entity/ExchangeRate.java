@@ -8,7 +8,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ExchangeRate {
     @JsonProperty("SRC_TGT")
-    SourceTarget SourceTargetObject;
+    private SourceTarget SourceTargetObject;
 
 
     // Getter Methods

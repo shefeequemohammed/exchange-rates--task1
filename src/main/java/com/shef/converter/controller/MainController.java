@@ -11,19 +11,14 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import java.io.*;
-import java.math.BigDecimal;
 import java.net.URL;
 import java.nio.charset.Charset;
-
 import org.json.JSONException;
 import org.json.JSONObject;
 
 
 @RestController
 public class MainController {
-
-    @Autowired
-    private RestTemplate restTemplate;
 
     @Autowired
     private RatesCache ratesCache;
