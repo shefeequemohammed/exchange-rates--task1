@@ -1,3 +1,6 @@
 language: java
 
 install: mvn install -Dgpg.skip
+
+before_install:
+  - chmod +x mvnw
