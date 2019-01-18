@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/shefeequemohammed/exchange-rates--task1.svg?branch=master)](https://travis-ci.org/shefeequemohammed/exchange-rates--task1)
+
 # exchange-rate-calculator
 
 ### How to run?
