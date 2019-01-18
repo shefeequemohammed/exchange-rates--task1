@@ -8,13 +8,13 @@
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>currency-conversion</name>
-    <description>Demo project for Spring Boot</description>
+    <name>exchange-rate-calculator</name>
+    <description>Exchange rate calculator</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.9.RELEASE</version>
+        <version>2.1.2.RELEASE</version>
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
