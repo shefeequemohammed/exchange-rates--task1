@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e498322bf14946a2a9198de379e519cd)](https://app.codacy.com/app/shefeequemohammed/exchange-rates--task1?utm_source=github.com&utm_medium=referral&utm_content=shefeequemohammed/exchange-rates--task1&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/shefeequemohammed/exchange-rates--task1.svg?branch=master)](https://travis-ci.org/shefeequemohammed/exchange-rates--task1)
 
 # exchange-rate-calculator
